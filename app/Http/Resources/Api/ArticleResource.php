@@ -2,7 +2,6 @@
 
 namespace App\Http\Resources\Api;
 
-use App\Http\Resources\TagResource;
 use App\Models\Article;
 use Illuminate\Http\Resources\Json\JsonResource;
 
